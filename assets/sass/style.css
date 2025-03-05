@@ -2833,10 +2833,11 @@ Banner Two
 @media (max-width: 1399px) {
   .banner__area-content {
     padding-bottom: 170px;
-    padding-top: 300px;
+    /* padding-top: 300px; */
+    padding-top: 200px;
   }
   .banner__area-image::after {
-    width: 65%;
+    width: 60%;
   }
   .banner__area-dots {
     left: 50px;
@@ -2951,7 +2952,8 @@ Banner Two
 @media (max-width: 450px) {
   .banner__area-content {
     padding-bottom: 170px;
-    padding-top: 320px;
+    /* padding-top: 320px; */
+    padding-top: 200px;
   }
   .banner__area-content h1 {
     font-size: 42px;
