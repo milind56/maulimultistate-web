@@ -6046,7 +6046,8 @@ Team Css
   margin: 0;
 }
 .team__area-item-image img {
-  width: 100%;
+  /* width: 100%; */
+  width: 20%;
 }
 .team__area-item-content {
   background: #fff;
@@ -7077,3 +7078,9 @@ Error
     line-height: 140px;
   }
 }/*# sourceMappingURL=style.css.map */
+
+@media all and (max-width: 768px) {
+  #img_res {
+      width: 100% ;
+  }
+}
