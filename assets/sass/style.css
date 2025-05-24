@@ -6375,7 +6375,8 @@ Testimonial
 Menu Bar
 ========================================================================== */
 .header__area-menu-bar {
-  background: #fff;
+  /* background: #fff; */
+  background: #f5cb8c;
   box-shadow: 0 0 70px rgba(0, 0, 0, 0.08);
 }
 .header__area-menu-bar-left {
