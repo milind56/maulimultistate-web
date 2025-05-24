@@ -2789,7 +2789,8 @@ Banner Two
   line-height: 28px;
 }
 .banner__two-right {
-  padding-top: 160px;
+  /* padding-top: 160px; */
+  padding-top: 120px;
   text-align: right;
   position: relative;
 }
@@ -2902,7 +2903,7 @@ Banner Two
   .banner__two-right {
     text-align: center;
     top: 0;
-    padding-top: 200px;
+    /* padding-top: 200px; */
   }
   .banner__two-thumb {
     position: absolute;
@@ -2981,7 +2982,7 @@ Banner Two
     margin-bottom: 30px;
   }
   .banner__two-right {
-    padding-top: 230px;
+    /* padding-top: 230px; */
   }
 }
 @media (max-width: 385px) {
