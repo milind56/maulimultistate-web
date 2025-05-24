@@ -4726,7 +4726,8 @@ Footer Top Two
   padding: 35px 50px;
 }
 .footer__top-item-logo a img {
-  max-width: 150px;
+  /* max-width: 150px; */
+  max-width: 260px;
   position: relative;
   z-index: 99;
 }
@@ -6109,7 +6110,7 @@ Team Css
 }
 
 /*==========================================================================
-Team Details Css 
+Team Details Css
 ========================================================================== */
 .team__details-left-item-info {
   background: #fff;
@@ -6398,7 +6399,8 @@ Menu Bar
   height: 10px;
 }
 .header__area-menu-bar-left-logo > a img {
-  max-width: 150px;
+  /* max-width: 150px;  */
+  max-width: 230px;
   position: relative;
 }
 .header__area-menu-bar-main-menu ul li {
@@ -6731,7 +6733,8 @@ Menu Box CSS
   display: inline-block;
 }
 .hamburger-popup-logo a img {
-  max-width: 155px;
+  /* max-width: 155px; */
+  max-width: 250px;
 }
 
 .hamburger-overlay {
